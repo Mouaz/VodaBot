@@ -1,6 +1,6 @@
 {
     "appSecret": "649cdb3bd34330030b7935f3c4cc11e8",
     "pageAccessToken": "EAAU7iZBQN0i8BAPCYxMT2bu0bZBsfErdKPtEwVib5WUdgvZCrNeyWRMQ22pJMxEso3rlrrgtP0rjb41Ymwa3Bu2hedm4oIj9vKBa9SVBiZAhEI1DC4xWRad9jHKxGnZCy8njCZAzZBF0QnFxmP2Or4pgKvDY6CKQtUcBfRstSgl4wZDZD",
-    "validationToken": "TOKEN",
-    "serverURL": "to_be_set_manually"
+    "validationToken": "my_token",
+    "serverURL": "https://vodacoolbot.herokuapp.com"
 }
